@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：概率解读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 024 篇 - 百家乐Ai预测分析工具：接近分数的输出适合怎样呈现](https://github.com/TGmszrcsz/baccarat-ai-024) ｜ [下一篇：第 026 篇 - 百家乐Ai预测分析工具：概率校准关注的是说法与结果是否相符](https://github.com/TGmszrcsz/baccarat-ai-026)
+
+<!-- article-chain:end -->
+
 部分局号只有历史结果，没有对应的分析输出。本篇围绕“缺少输出时不要补写一个预测方向”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
